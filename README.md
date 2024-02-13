@@ -39,6 +39,12 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 ![](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=c9312e&logoWidth=30&color=f3f7fa)
 &nbsp;
+![](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=0073e8&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=0073e8&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=0073e8&logoWidth=30&color=f3f7fa)
+&nbsp;
 
 </n>
 
