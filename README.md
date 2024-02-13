@@ -36,6 +36,9 @@ More of a runner by really-early-mornings, and then engineer after that.
 
 ## Connect with me
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0" />][twitter]
+
+
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0)
 
 
@@ -47,6 +50,17 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 [![website](./Images/instagram-light.svg)](https://instagram.com/eden_noel08#gh-light-mode-only)
 [![website](./Images/instagram-dark.svg)](https://instagram.com/eden_noel08#gh-dark-mode-only)
+
+
+
+<!-- Social Media -->
+
+
+<!-- [website]: https://chizwiz.io -->
+[twitter]: https://twitter.com/eden_noel08
+[instagram]: https://instagram.com/eden_noel08
+[linkedin]: https://linkedin.com/in/joseeden
+
 
 
 ## GitHub Stats
