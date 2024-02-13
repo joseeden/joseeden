@@ -37,6 +37,20 @@ More of a runner by really-early-mornings, and then engineer after that.
 </n>
 
 
+![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=2ca5e0&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=326ce5&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=4468aa&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=black&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=3838ab&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF&logoWidth=30&color=f3f7fa)
+&nbsp;
+</n>
+
 ![](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=0073e8&logoWidth=30&color=f3f7fa)
 &nbsp;
 ![](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=0073e8&logoWidth=30&color=f3f7fa)
@@ -49,34 +63,40 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ff6c37&logoWidth=30&color=f3f7fa)
 &nbsp;
-
 </n>
 
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=2ca5e0&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=326ce5&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=4468aa&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=black&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=3838ab&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
+![](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=ba343c&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=323232&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=2687f7&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=5d72f1&logoWidth=30&color=f3f7fa)
+&nbsp;
 </n>
 
+![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=4ea94b&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=316192&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=d73429&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=42759c&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=892122&logoWidth=30&color=f3f7fa)
+&nbsp;
+</n>
 
 ![](https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30)
-&nbsp;&nbsp;
+&nbsp;
 ![](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=003e62&logoWidth=30&color=f3f7fa)
 &nbsp;
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=6db33f&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
+&nbsp;
 ![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoWidth=30)
-&nbsp;&nbsp;
+&nbsp;
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ed8b00&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
+&nbsp;
 </n>
 
 <!-- ![](https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30)
@@ -91,7 +111,13 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 </n> -->
 
-
+![](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=black&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=ff6600&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor8f0000&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+</n>
 
 
 ## Connect with me
