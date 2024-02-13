@@ -43,16 +43,16 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 <img align=left src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
 &nbsp;&nbsp;
-<img align=top src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+<img align=left src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 
 </div>
 <div align=left> 
 
 ## Connect with me
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0)][twitter]
+[![](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0)][twitter]
 &nbsp;&nbsp;
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0)][twitter]
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 
 <!-- Social Media -->
