@@ -50,13 +50,13 @@ Well, more of a runner by really-early-mornings, and then engineer after that.
 <!-- This section shows "Github Stats" -->
 
 <a href="https://github.com/joseeden/joseeden">
-  <img align="center" src="https://github-readme-stats-blond-theta-24.vercel.app/api?username=joseeden&show_icons=true&line_height=27&count_private=true&theme=radical&hide_border=true&bg_color=FFFFFF&text_color=000000&title_color=4779c4&icon_color=4779c4&border_color=4779c4"/>
+  <img align="center" src="https://github-readme-stats-blond-theta-24.vercel.app/api?username=joseeden&show_icons=true&line_height=27&count_private=true&theme=radical&hide_border=true&bg_color=FFFFFF&text_color=000000&title_color=164c87&icon_color=164c87&border_color=164c87"/>
 
 
 <!-- This section shows "Most Used Languages"
 
 <a href="https://github.com/joseeden/joseeden">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeden&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=4779c4&icon_color=4779c4&border_color=4779c4&card_width=445"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeden&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=164c87&icon_color=164c87&border_color=164c87&card_width=445"/>
 </a> -->
 
 
