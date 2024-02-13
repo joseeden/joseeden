@@ -12,13 +12,14 @@
 
 Well, more of a runner by really-early-mornings, and then engineer after that. 
 
-- I'm currently working as a DevOps Engineer in Singapore 
+- I'm working as a DevOps Engineer in Singapore 
 - I'm currently learning everything (no, just kidding)
-- I do like to explore technologies that are outside my daily work 
-- Daily work: Mostly includes integrating stuff in the cloud 
+- I like exploring technologies outside my daily work 
+- My daily work mostly includes integrating stuff in the cloud 
 - My scope could range from automating processes in the backend to building features
 - Fun fact: I play the Kalimba to relax (go ahead, search it!)
 - If I'm not at my desk, I'm probably running outside.
+- I also like solving jigsaw puzzles and reading books.
 
 ## Tools 
 
@@ -37,7 +38,17 @@ Well, more of a runner by really-early-mornings, and then engineer after that.
 
 ## Connect with me
 
-[![website](./img/twitter-light.svg)](https://twitter.com/eden_noel08#gh-light-mode-only)
+
+<div>
+<img align=left src="https://twitter.com/eden_noel08#gh-light-mode-only" alt="./img/twitter-light.svg">
+<img align=left src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="css3">
+</div>
+<div align=left>
+<br/>
+
+
+
+[![website]()]()
 [![website](./img/twitter-dark.svg)](https://twitter.com/eden_noel08#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/joseeden#gh-light-mode-only)
