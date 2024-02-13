@@ -23,15 +23,15 @@ More of a runner by really-early-mornings, and then engineer after that.
 ## Tools 
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa)
-&nbsp;
+
 ![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=ee0000&logoWidth=30&color=f3f7fa)
-&nbsp;
+
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=557c94&logoWidth=30&color=f3f7fa)
-&nbsp;
+
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=121011&logoWidth=30&color=f3f7fa)
-&nbsp;
+
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=0078d6&logoWidth=30&color=f3f7fa)
-&nbsp;
+
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=022155&logoWidth=30&color=f3f7fa)
 </n>
 
