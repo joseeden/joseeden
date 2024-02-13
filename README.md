@@ -13,8 +13,7 @@
   </a>  
   <a href="https://github.com/joseeden?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joseeden?style=flat&logo=star"/></a>  
-  <a href="https://github.com/joseeden?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joseeden?color=55960c&flat&labelColor=488207&logo=star"/></a>  
+
 </p>
 
 
