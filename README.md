@@ -50,7 +50,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 
 ## Connect with me
 
-[![](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&labelColor=f3f7fa)][twitter]
+[![](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa)][twitter]
 &nbsp;&nbsp;
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=0077b5&color=f3f7fa)][linkedin]
 
