@@ -51,6 +51,16 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 </n>
 
+
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=ff9900&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=0089d6&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=4285f4&logoWidth=30&color=f3f7fa)
+&nbsp;
+</n>
+
+
 ![](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=0073e8&logoWidth=30&color=f3f7fa)
 &nbsp;
 ![](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=0073e8&logoWidth=30&color=f3f7fa)
