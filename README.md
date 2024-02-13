@@ -12,9 +12,10 @@
 
 More of a runner by really-early-mornings, and then engineer after that. 
 
-- I'm working as a DevOps Engineer in Singapore 
+- I'm currently working as a DevOps Engineer in Singapore 
 - I'm currently learning everything (no, just kidding)
-- I like automating stuff.
+- I like building stuff, breaking them, and then fixing them (well some).
+- I always looks to automate what I can.
 - Fun fact: I play the Kalimba to relax (go ahead, search it!)
 - If I'm not at my desk, I'm probably running outside.
 - I also like solving jigsaw puzzles and reading books.
@@ -34,6 +35,9 @@ More of a runner by really-early-mornings, and then engineer after that.
 
 
 ## Connect with me
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f7f7f7&color=1D9BF0)
+
 
 [![website](./Images/twitter-light.svg)](https://twitter.com/eden_noel08#gh-light-mode-only)
 [![website](./Images/twitter-dark.svg)](https://twitter.com/eden_noel08#gh-dark-mode-only)
