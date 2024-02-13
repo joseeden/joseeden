@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I'm Eden <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 <!--
 **joseeden/joseeden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
