@@ -31,7 +31,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 <img align=top src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 </div>
 <div align=left> -->
-
+<!-- 
 <div>
 <img align=left src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa" alt="linux">
 &nbsp;&nbsp;
@@ -56,7 +56,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 
 </div>
 <div align=left> 
-</br>
+</br> -->
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa)
 
