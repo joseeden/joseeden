@@ -3,6 +3,9 @@
 
 # Hi there, I'm Eden <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
+<a href="https://github.com/joseeden/joseeden">
+  <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+</a>
 
 <img align=top src="https://github.com/joseeden/Blog-web-app/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif" alt="drawing" width="90%"/>
 <br>
@@ -22,7 +25,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 
 ## Tech Stack 
 
-<div align="center">
+<div>
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa)
 &nbsp;
