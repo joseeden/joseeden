@@ -113,6 +113,16 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 </n>
 
+![](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=e6522c&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=f46800&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=005571&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=005571&logoWidth=30&color=f3f7fa)
+&nbsp;
+</n>
+
 <!-- ![](https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30)
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30)
