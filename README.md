@@ -56,7 +56,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 <!-- This section shows "Most Used Languages" -->
 
 <a href="https://github.com/joseeden/joseeden">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeden&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=f3f7fa&text_color=000000&title_color=012e95&icon_color=012e95&border_color=012e95&card_width=400&card_height=60"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeden&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=f3f7fa&text_color=000000&title_color=012e95&icon_color=012e95&border_color=012e95&card_width=400&card_height=100"/>
 
 
 
