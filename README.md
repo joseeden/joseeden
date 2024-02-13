@@ -31,10 +31,12 @@ More of a runner by really-early-mornings, and then engineer after that.
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=0078d6&logoWidth=30&color=f3f7fa)
 &nbsp;
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=022155&logoWidth=30&color=f3f7fa)
-</n>
-
+&nbsp;
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=e44c30&logoWidth=30&color=f3f7fa)
 &nbsp;
+</n>
+
+
 ![](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=0073e8&logoWidth=30&color=f3f7fa)
 &nbsp;
 ![](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=0073e8&logoWidth=30&color=f3f7fa)
