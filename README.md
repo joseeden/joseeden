@@ -32,7 +32,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 </div>
 <div align=left> -->
 
-
+<div>
 <img align=left src="https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="html5">
 &nbsp;&nbsp;
 <img align=left src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="css3">
@@ -45,7 +45,8 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 <img align=top src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 
-
+</div>
+<div align=left> 
 
 ## Connect with me
 
@@ -53,8 +54,8 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0)][twitter]
 
-<!-- Social Media -->
 
+<!-- Social Media -->
 
 <!-- [website]: https://chizwiz.io -->
 [twitter]: https://twitter.com/eden_noel08
