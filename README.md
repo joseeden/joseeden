@@ -103,12 +103,14 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 ![](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=003e62&logoWidth=30&color=f3f7fa)
 &nbsp;
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=6db33f&logoWidth=30&color=f3f7fa)
-&nbsp;
 ![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoWidth=30)
 &nbsp;
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ed8b00&logoWidth=30&color=f3f7fa)
 &nbsp;
+![](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=black&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=ff6600&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
 </n>
 
 <!-- ![](https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30)
@@ -123,13 +125,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 </n> -->
 
-![](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=black&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=ff6600&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor8f0000&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
-</n>
+
 
 
 ## Connect with me
