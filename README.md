@@ -17,7 +17,7 @@
 </p>
 
 
-<img align=top src="https://github.com/joseeden/Blog-web-app/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif" alt="drawing" width="90%"/>
+<img align=top src="./Images/keyboard.gif" alt="drawing" width="90%"/>
 <br>
 
 
