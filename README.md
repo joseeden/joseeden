@@ -71,7 +71,6 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 ![](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=c9312e&logoWidth=30&color=f3f7fa)
 &nbsp;
-
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ff6c37&logoWidth=30&color=f3f7fa)
 &nbsp;
 </n>
@@ -80,11 +79,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 ![](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=ba343c&logoWidth=30&color=f3f7fa)
 &nbsp;
-![](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=323232&logoWidth=30&color=f3f7fa)
-&nbsp;
 ![](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=2687f7&logoWidth=30&color=f3f7fa)
-&nbsp;
-![](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=5d72f1&logoWidth=30&color=f3f7fa)
 &nbsp;
 </n>
 
