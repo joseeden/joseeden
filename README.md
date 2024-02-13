@@ -33,6 +33,8 @@ More of a runner by really-early-mornings, and then engineer after that.
 <div align=left> -->
 
 <div>
+<img align=left src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30" alt="linux">
+&nbsp;&nbsp;
 <img align=left src="https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="html5">
 &nbsp;&nbsp;
 <img align=left src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="css3">
@@ -47,16 +49,18 @@ More of a runner by really-early-mornings, and then engineer after that.
 
 </div>
 <div align=left> 
+</br>
 
 ## Connect with me
 
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=White&color=f3f7fa)][twitter]
-&nbsp;&nbsp;
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=f3f7fa&logoColor=0077b5)][linkedin]
+&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=009be3&color=f3f7fa)][skype]
+&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=White&color=f3f7fa)][twitter]
 &nbsp;&nbsp;
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=e4405f&color=f3f7fa)][instagram]
 &nbsp;&nbsp;
-[![](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=009be3&color=f3f7fa)][skype]
 
 
 
