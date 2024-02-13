@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&type=wsoft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90"/>
 </p>
+
+![header]()
 
 # Hi there, I'm Eden <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-<!--
-**joseeden/joseeden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 <img align=top src="https://github.com/a3ela/Blog-web-app/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif" alt="drawing" width="90%"/>
 <br>
@@ -16,7 +16,6 @@
 
 Well, more of a runner by really-early-mornings, and then engineer after that. 
 
-- 
 
 
 ## Tools 
@@ -49,3 +48,11 @@ Well, more of a runner by really-early-mornings, and then engineer after that.
 <a href="https://github.com/a3ela/a3ela">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3ela&show_icons=true&line_height=27&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000"/>
 </a> -->
+
+
+
+
+
+<!--
+**joseeden/joseeden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
