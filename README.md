@@ -17,7 +17,7 @@
 </p>
 
 
-<img align=top src="./Images/keyboard.gif" alt="drawing" width="90%"/>
+<img align=top src="./Images/keyboard.gif" alt="drawing" width="100%"/>
 <br>
 
 
