@@ -39,17 +39,17 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 </n>
 
-![](https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30)
+<!-- ![](https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30)
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30)
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/-Javascript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30)
 &nbsp;&nbsp;
-<!-- ![](https://img.shields.io/badge/-React-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30)
-&nbsp;&nbsp; -->
-<!-- ![](https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30)
-&nbsp;&nbsp; -->
-</n>
+![](https://img.shields.io/badge/-React-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30)
+&nbsp;&nbsp; 
+![](https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30)
+&nbsp;&nbsp;
+</n> -->
 
 
 
