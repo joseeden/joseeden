@@ -33,7 +33,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 <div align=left> -->
 
 <div>
-<img align=left src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30" alt="linux">
+<img align=left src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa" alt="linux">
 &nbsp;&nbsp;
 <img align=left src="https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="html5">
 &nbsp;&nbsp;
@@ -53,7 +53,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 
 ## Connect with me
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=f3f7fa&logoColor=0077b5)][linkedin]
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077b5&color=f3f7fa)][linkedin]
 &nbsp;&nbsp;
 [![](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=009be3&color=f3f7fa)][skype]
 &nbsp;&nbsp;
