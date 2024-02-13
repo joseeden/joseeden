@@ -65,6 +65,8 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 </n>
 
+![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=0078d7&logoWidth=30&color=f3f7fa)
+&nbsp;
 ![](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=ba343c&logoWidth=30&color=f3f7fa)
 &nbsp;
 ![](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=323232&logoWidth=30&color=f3f7fa)
