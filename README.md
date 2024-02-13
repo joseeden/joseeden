@@ -21,7 +21,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 - I also like solving jigsaw puzzles and reading books.
 
 ## Tools 
-
+<!-- 
 <div>
 <img align=left src="https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="html5">
 <img align=left src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="css3">
@@ -30,15 +30,28 @@ More of a runner by really-early-mornings, and then engineer after that.
 <img align=left src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
 <img align=top src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 </div>
-<div align=left>
+<div align=left> -->
+
+
+<img align=left src="https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="html5">
+&nbsp;&nbsp;
+<img align=left src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="css3">
+&nbsp;&nbsp;
+<img align=left src="https://img.shields.io/badge/-Javascript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="javascript">
+&nbsp;&nbsp;
+<img align=left src="https://img.shields.io/badge/-React-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="react">
+&nbsp;&nbsp;
+<img align=left src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
+&nbsp;&nbsp;
+<img align=top src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 
 
 
 ## Connect with me
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0)][twitter]
-
-
+&nbsp;&nbsp;
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0)][twitter]
 
 <!-- Social Media -->
 
