@@ -20,7 +20,9 @@ More of a runner by really-early-mornings, and then engineer after that.
 - If I'm not at my desk, I'm probably running outside.
 - I also like solving jigsaw puzzles and reading books.
 
-## Tools 
+## Tech Stack 
+
+<div>
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa)
 &nbsp;
@@ -134,6 +136,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 </n> -->
 
+</div>
 
 
 
