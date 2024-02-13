@@ -183,7 +183,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 <!--END_SECTION:activity-->
 
 
-## Latest Posts 
+<!-- ## Latest Posts  -->
 
 
 <!--
