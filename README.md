@@ -43,7 +43,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 
 ![](https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30)
 &nbsp;&nbsp;
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=ed8b00&logoWidth=30&color=f3f7fa)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ed8b00&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=6db33f&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
