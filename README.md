@@ -20,7 +20,6 @@ Well, more of a runner by really-early-mornings, and then engineer after that.
 - Fun fact: I play the Kalimba to relax (go ahead, search it!)
 - If I'm not at my desk, I'm probably running outside.
 - I also like solving jigsaw puzzles and reading books.
-<br>
 
 ## Tools 
 
@@ -33,7 +32,6 @@ Well, more of a runner by really-early-mornings, and then engineer after that.
 <img align=top src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 </div>
 <div align=left>
-<br/>
 
 
 
@@ -48,7 +46,6 @@ Well, more of a runner by really-early-mornings, and then engineer after that.
 [![website](./Images/instagram-light.svg)](https://instagram.com/eden_noel08#gh-light-mode-only)
 [![website](./Images/instagram-dark.svg)](https://instagram.com/eden_noel08#gh-dark-mode-only)
 
-<br>
 
 ## GitHub Stats
 
