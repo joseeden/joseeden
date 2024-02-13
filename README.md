@@ -28,26 +28,35 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=557c94&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=121011&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=0078d6&logoWidth=30&color=f3f7fa)
+![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=022155&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
 </n>
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=e44c30&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
-![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=121011&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=022155&logoWidth=30&color=f3f7fa)
-&nbsp;&nbsp;
+
+
 ![](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=003e62&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
 </n>
 
-![](https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30)
+![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=2ca5e0&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ed8b00&logoWidth=30&color=f3f7fa)
+![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=326ce5&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+</n>
+
+
+![](https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30)
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=6db33f&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoWidth=30)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ed8b00&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
 </n>
 
