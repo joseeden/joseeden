@@ -118,6 +118,8 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 ![](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=005571&logoWidth=30&color=f3f7fa)
 &nbsp;
+![](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=black&logoWidth=30&color=f3f7fa)
+&nbsp;
 </n>
 
 <!-- ![](https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30)
