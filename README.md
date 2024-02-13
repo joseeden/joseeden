@@ -59,7 +59,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 </br> -->
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa)
-
+&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=ee0000&logoWidth=30&color=f3f7fa)
 
 
