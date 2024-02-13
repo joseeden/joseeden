@@ -31,8 +31,8 @@ More of a runner by really-early-mornings, and then engineer after that.
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=121011&logoWidth=30&color=f3f7fa)
 &nbsp;
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=0078d6&logoWidth=30&color=f3f7fa)
-![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=022155&logoWidth=30&color=f3f7fa)
 &nbsp;
+![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=022155&logoWidth=30&color=f3f7fa)
 </n>
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=e44c30&logoWidth=30&color=f3f7fa)
