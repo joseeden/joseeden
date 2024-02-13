@@ -38,24 +38,14 @@ Well, more of a runner by really-early-mornings, and then engineer after that.
 
 ## Connect with me
 
-
-<div>
-<img align=left src="https://twitter.com/eden_noel08#gh-light-mode-only" alt="./img/twitter-light.svg">
-<img align=left src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="css3">
-</div>
-<div align=left>
-<br/>
-
-
-
-[![website]()]()
-[![website](./img/twitter-dark.svg)](https://twitter.com/eden_noel08#gh-dark-mode-only)
+[![website](./Images/twitter-light.svg)](https://twitter.com/eden_noel08#gh-light-mode-only)
+[![website](./Images/twitter-dark.svg)](https://twitter.com/eden_noel08#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/joseeden#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/joseeden#gh-dark-mode-only)
+[![website](./Images/linkedin-light.svg)](https://linkedin.com/in/joseeden#gh-light-mode-only)
+[![website](./Images/linkedin-dark.svg)](https://linkedin.com/in/joseeden#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/eden_noel08#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/eden_noel08#gh-dark-mode-only)
+[![website](./Images/instagram-light.svg)](https://instagram.com/eden_noel08#gh-light-mode-only)
+[![website](./Images/instagram-dark.svg)](https://instagram.com/eden_noel08#gh-dark-mode-only)
 
 
 
