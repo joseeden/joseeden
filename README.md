@@ -41,13 +41,13 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=326ce5&logoWidth=30&color=f3f7fa)
 &nbsp;
+![](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=0F1689&logoWidth=30&color=f3f7fa)
+&nbsp;
 ![](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=4468aa&logoWidth=30&color=f3f7fa)
 &nbsp;
-![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=black&logoWidth=30&color=f3f7fa)
-&nbsp;
-![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=3838ab&logoWidth=30&color=f3f7fa)
-&nbsp;
 ![](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=black&logoWidth=30&color=f3f7fa)
 &nbsp;
 </n>
 
@@ -57,6 +57,8 @@ More of a runner by really-early-mornings, and then engineer after that.
 ![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=0089d6&logoWidth=30&color=f3f7fa)
 &nbsp;
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=4285f4&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=3838ab&logoWidth=30&color=f3f7fa)
 &nbsp;
 </n>
 
