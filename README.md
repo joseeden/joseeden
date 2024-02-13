@@ -30,6 +30,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 <img align=left src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
 <img align=top src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 </div>
+
 <div align=left> -->
 <!-- 
 <div>
@@ -61,7 +62,17 @@ More of a runner by really-early-mornings, and then engineer after that.
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=ee0000&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=557c94&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=0078d6&logoWidth=30&color=f3f7fa)
+</n>
 
+![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=ee0000&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=557c94&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=0078d6&logoWidth=30&color=f3f7fa)
 
 ## Connect with me
 
