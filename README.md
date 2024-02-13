@@ -54,7 +54,9 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=f3f7fa&logoColor=0077b5)][linkedin]
 &nbsp;&nbsp;
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=f3f7fa&logoColor=e4405f)][instagram]
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=e4405f&color=f3f7fa)][instagram]
+&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=009be3&color=f3f7fa)][skype]
 
 
 
@@ -64,6 +66,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 [twitter]: https://twitter.com/eden_noel08
 [instagram]: https://instagram.com/eden_noel08
 [linkedin]: https://linkedin.com/in/joseeden
+[skype]: https://join.skype.com/invite/bXEIo1ARlzMV
 
 
 
