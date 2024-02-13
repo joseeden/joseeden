@@ -22,34 +22,6 @@ More of a runner by really-early-mornings, and then engineer after that.
 
 ## Tools 
 
-<div align=left> -->
-<!-- 
-<div>
-<img align=left src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa" alt="linux">
-&nbsp;&nbsp;
-<img align=left src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=ee0000&logoWidth=30&color=f3f7fa" alt="red har">
-&nbsp;&nbsp;
-<img align=left src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=557c94&logoWidth=30&color=f3f7fa" alt="kali linux">
-&nbsp;&nbsp;
-<img align=left src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=0078d6&logoWidth=30&color=f3f7fa" alt="windows">
-&nbsp;&nbsp;
-<img align=left src="" alt="html5">
-&nbsp;&nbsp;
-<img align=left src="" alt="css3">
-&nbsp;&nbsp;
-<img align=left src="" alt="javascript">
-&nbsp;&nbsp;
-<img align=left src="" alt="react">
-&nbsp;&nbsp;
-<img align=left src="" alt="Python">
-&nbsp;&nbsp;
-<img align=left src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
-
-
-</div>
-<div align=left> 
-</br> -->
-
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=ee0000&logoWidth=30&color=f3f7fa)
@@ -70,6 +42,8 @@ More of a runner by really-early-mornings, and then engineer after that.
 ![](https://img.shields.io/badge/-Javascript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30)
 &nbsp;&nbsp;
 <!-- ![](https://img.shields.io/badge/-React-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30)
+&nbsp;&nbsp; -->
+<!-- ![](https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30)
 &nbsp;&nbsp; -->
 </n>
 
