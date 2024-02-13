@@ -35,6 +35,8 @@ More of a runner by really-early-mornings, and then engineer after that.
 <div>
 <img align=left src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa" alt="linux">
 &nbsp;&nbsp;
+<img align=left src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=557c94&logoWidth=30&color=f3f7fa" alt="kali linux">
+&nbsp;&nbsp;
 <img align=left src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=0078d6&logoWidth=30&color=f3f7fa" alt="windows">
 &nbsp;&nbsp;
 <img align=left src="https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="html5">
