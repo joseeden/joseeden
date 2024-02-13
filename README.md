@@ -36,7 +36,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 
 ## Connect with me
 
-[<img align="left" alt="Twitter" width="100" src="https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0" />][twitter]
+[<img align="left" alt="Twitter" width="125" src="https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0" />][twitter]
 
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0)
