@@ -79,11 +79,10 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 </n>
 
-
-
+<!-- 
 ![](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=2687f7&logoWidth=30&color=f3f7fa)
 &nbsp;
-</n>
+</n> -->
 
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=4ea94b&logoWidth=30&color=f3f7fa)
 &nbsp;
