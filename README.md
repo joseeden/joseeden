@@ -53,9 +53,15 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;&nbsp;
 <img align=left src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 
+
 </div>
 <div align=left> 
 </br>
+
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&color=f3f7fa)
+
+![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=ee0000&logoWidth=30&color=f3f7fa)
+
 
 ## Connect with me
 
