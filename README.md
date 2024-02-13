@@ -18,7 +18,6 @@
 
 
 <img align=top src="./Images/keyboard.gif" alt="drawing" width="100%"/>
-<br>
 
 
 ## Engineer by day, runner by night 
