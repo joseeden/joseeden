@@ -45,6 +45,8 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 ![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=e24329&logoWidth=30&color=f3f7fa)
 &nbsp;
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ff6c37&logoWidth=30&color=f3f7fa)
+&nbsp;
 
 </n>
 
