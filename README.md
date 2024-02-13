@@ -47,7 +47,8 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 ![](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF&logoWidth=30&color=f3f7fa)
 &nbsp;
-
+![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=0078d7&logoWidth=30&color=f3f7fa)
+&nbsp;
 </n>
 
 
@@ -74,12 +75,12 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ff6c37&logoWidth=30&color=f3f7fa)
 &nbsp;
-</n>
-
-![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=0078d7&logoWidth=30&color=f3f7fa)
-&nbsp;
 ![](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=ba343c&logoWidth=30&color=f3f7fa)
 &nbsp;
+</n>
+
+
+
 ![](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=2687f7&logoWidth=30&color=f3f7fa)
 &nbsp;
 </n>
