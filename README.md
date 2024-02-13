@@ -26,8 +26,6 @@ More of a runner by really-early-mornings, and then engineer after that.
 &nbsp;
 ![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=ee0000&logoWidth=30&color=f3f7fa)
 &nbsp;
-![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=557c94&logoWidth=30&color=f3f7fa)
-&nbsp;
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=0078d6&logoWidth=30&color=f3f7fa)
 &nbsp;
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=022155&logoWidth=30&color=f3f7fa)
