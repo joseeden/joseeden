@@ -22,7 +22,7 @@
 
 ## Engineer by day, runner by night 
 
-More of a runner by really-early-mornings, and then engineer after that. 
+More like runner by really-early-mornings, and then engineer after that. 
 
 - I'm currently working as a DevOps Engineer in Singapore 
 - I'm currently learning everything (no, just kidding)
