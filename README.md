@@ -35,15 +35,15 @@ More of a runner by really-early-mornings, and then engineer after that.
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=e44c30&logoWidth=30&color=f3f7fa)
 &nbsp;
-![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=e24329&logoWidth=30&color=f3f7fa)
-&nbsp;
-![](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=c9312e&logoWidth=30&color=f3f7fa)
-&nbsp;
 ![](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=0073e8&logoWidth=30&color=f3f7fa)
 &nbsp;
 ![](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=0073e8&logoWidth=30&color=f3f7fa)
 &nbsp;
 ![](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=0073e8&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=c9312e&logoWidth=30&color=f3f7fa)
+&nbsp;
+![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=e24329&logoWidth=30&color=f3f7fa)
 &nbsp;
 
 </n>
@@ -51,6 +51,14 @@ More of a runner by really-early-mornings, and then engineer after that.
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=2ca5e0&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=326ce5&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=4468aa&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=black&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=3838ab&logoWidth=30&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF&logoWidth=30&color=f3f7fa)
 &nbsp;&nbsp;
 </n>
 
