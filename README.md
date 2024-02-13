@@ -20,6 +20,7 @@ Well, more of a runner by really-early-mornings, and then engineer after that.
 - Fun fact: I play the Kalimba to relax (go ahead, search it!)
 - If I'm not at my desk, I'm probably running outside.
 - I also like solving jigsaw puzzles and reading books.
+<br>
 
 ## Tools 
 
@@ -47,18 +48,21 @@ Well, more of a runner by really-early-mornings, and then engineer after that.
 [![website](./Images/instagram-light.svg)](https://instagram.com/eden_noel08#gh-light-mode-only)
 [![website](./Images/instagram-dark.svg)](https://instagram.com/eden_noel08#gh-dark-mode-only)
 
+<br>
+
+## GitHub Stats
+
+<!-- This section shows "Github Stats" -->
+
+<a href="https://github.com/a3ela/a3ela">
+  <img align="center" src="https:/github-readme-stats-blond-theta-24.vercel.app/api?username=joseeden&show_icons=true&line_height=27&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000"/>
 
 
-## 📈 GitHub Stats
-<!-- 
+<!-- This section shows "Most Used Languages"
+
 <a href="https://github.com/a3ela/a3ela">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3ela&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000&card_width=445"/>
-</a>
-<a href="https://github.com/a3ela/a3ela">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3ela&show_icons=true&line_height=27&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000"/>
 </a> -->
-
-
 
 
 
