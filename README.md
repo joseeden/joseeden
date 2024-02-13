@@ -4,7 +4,7 @@
 # Hi there, I'm Eden <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 
-<img align=top src="https://github.com/a3ela/Blog-web-app/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif" alt="drawing" width="90%"/>
+<img align=top src="https://github.com/joseeden/Blog-web-app/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif" alt="drawing" width="90%"/>
 <br>
 
 
@@ -54,14 +54,14 @@ Well, more of a runner by really-early-mornings, and then engineer after that.
 
 <!-- This section shows "Github Stats" -->
 
-<a href="https://github.com/a3ela/a3ela">
-  <img align="center" src="https:/github-readme-stats-blond-theta-24.vercel.app/api?username=joseeden&show_icons=true&line_height=27&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000"/>
+<a href="https://github.com/joseeden/joseeden">
+  <img align="center" src="https://github-readme-stats-blond-theta-24.vercel.app/api?username=joseeden&show_icons=true&line_height=27&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000"/>
 
 
 <!-- This section shows "Most Used Languages"
 
-<a href="https://github.com/a3ela/a3ela">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3ela&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000&card_width=445"/>
+<a href="https://github.com/joseeden/joseeden">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeden&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000&card_width=445"/>
 </a> -->
 
 
