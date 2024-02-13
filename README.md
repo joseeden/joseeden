@@ -39,7 +39,7 @@ More of a runner by really-early-mornings, and then engineer after that.
 [<img align="left" alt="Twitter" width="115" src="https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0" />][twitter]
 
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eden_noel08?style=for-the-badge&logo=twitter&label=Twitter&labelColor=f3f7fa&color=1D9BF0)][twitter]
 
 
 [![website](./Images/twitter-light.svg)](https://twitter.com/eden_noel08#gh-light-mode-only)
