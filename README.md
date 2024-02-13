@@ -11,6 +11,8 @@
   <a href="https://github.com/joseeden?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/joseeden?style=flat&logo=github">
   </a>  
+  <a href="https://github.com/joseeden?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joseeden?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>  
 </p>
 
 
