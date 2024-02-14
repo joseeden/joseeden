@@ -191,11 +191,12 @@ More like runner by really-early-mornings, and then engineer after that.
 
 ## Recent Activity 
 
-<!--START_SECTION:activity-->
 
+This is a list of my most recent activity on GitHub.
 
+<!--RECENT_ACTIVITY:start-->
 
-
+<!--RECENT_ACTIVITY:last_update-->
 
 <!-- ## Latest Posts  -->
 
