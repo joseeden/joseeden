@@ -11,10 +11,12 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v3
-      #
-      # "{version}" is a placeholder and should be replaced with the latest release of recent-activity
-      - uses: Readme-Workflows/recent-activity@2.4.1
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'update issue message'
+          # MAX_LINES: 10
+
             
