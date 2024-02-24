@@ -199,7 +199,7 @@ This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
 
-<!--START_SECTION:last_update-->
+
 
 
 <!-- ## Latest Posts  -->
