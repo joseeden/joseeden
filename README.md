@@ -197,9 +197,10 @@ More like runner by really-early-mornings, and then engineer after that.
 
 This is a list of my most recent activity on GitHub.
 
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:last_update-->
+
 
 <!-- ## Latest Posts  -->
 
